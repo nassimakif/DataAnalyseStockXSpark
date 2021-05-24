@@ -1,0 +1,14 @@
+- Prix moyen de vente général
+- Prix de vente le plus élevé
+- Prix de vente le plus bas
+
+
+- Les états qui achète le plus
+- Les états qui achète le moins
+
+- La marque qui achète le plus
+- La marque qui achète le moins
+
+
+- Nombre total de vente
+- Les dix dernières ventes
